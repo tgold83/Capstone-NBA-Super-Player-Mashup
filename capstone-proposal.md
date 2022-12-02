@@ -20,6 +20,7 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 
 -C#
 -Unity Game Engine
+-Blender
 -Photoshop or similar programs
 -NBA 2k23 player stats (https://www.2kratings.com/)
 
