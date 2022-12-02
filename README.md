@@ -5,3 +5,4 @@
 * 10:30: Start building player in Unity
 * 11:00: Work in blender to create 3d player while watching tutorial
 * 1:30: Research on blender toolbar
+* 3:00: Continue work on blender to create 3d player
