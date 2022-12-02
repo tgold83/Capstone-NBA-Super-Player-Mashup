@@ -4,3 +4,4 @@
 * 9:50: Search Unity Assets for player
 * 10:30: Start building player in Unity
 * 11:00: Work in blender to create 3d player while watching tutorial
+* 1:30: Research on blender toolbar
