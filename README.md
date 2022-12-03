@@ -7,3 +7,4 @@
 * 1:30: Research on blender toolbar
 * 3:00: Continue work on blender to create 3d player
 * 4:15: Research animations in Unity
+* 5:00: End of day
