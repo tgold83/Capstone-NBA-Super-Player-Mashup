@@ -8,3 +8,6 @@
 * 3:00: Continue work on blender to create 3d player
 * 4:15: Research animations in Unity
 * 5:00: End of day
+
+#### Friday, 12/9,22
+* 8:15: Work on animating blender models
