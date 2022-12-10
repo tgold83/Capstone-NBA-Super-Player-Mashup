@@ -14,3 +14,4 @@
 * 9:40: Watch youtube tutorial and follow along (https://www.google.com/search?q=how+to+make+basketball+game+in+unity&rlz=1C1CHBF_enUS839US839&oq=how+to+make+basketball+game&aqs=chrome.3.0i512j69i57j0i512j0i20i263i512j0i22i30l6.15063j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:e17461a9,vid:d-aFkl1xVZw)
 * 1:15: Work on styling components in Unity
 * 4:00: Work on ball physics in Unity
+* 5:00: End of Day
