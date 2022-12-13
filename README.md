@@ -19,3 +19,4 @@
 #### Tuesday, 12/13/22
 * 1:00: Work on logo in Canva
 * 2:10: Work on importing logo into Unity
+* 3:30: Watch tutorial video on creating menus in Unity
