@@ -15,3 +15,6 @@
 * 1:15: Work on styling components in Unity
 * 4:00: Work on ball physics in Unity
 * 5:00: End of Day
+
+#### Tuesday, 12/13/22
+* 1:00: Work on logo in Canva
