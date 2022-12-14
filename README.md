@@ -21,3 +21,6 @@
 * 2:10: Work on importing logo into Unity
 * 3:30: Watch tutorial video on creating menus in Unity
 * 4:40: End of Day
+
+#### Wednesday, 12/14/22
+* 1:05: Work on court design in blender
