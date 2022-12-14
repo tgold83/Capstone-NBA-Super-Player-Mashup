@@ -25,3 +25,4 @@
 #### Wednesday, 12/14/22
 * 1:05: Work on court design in blender
 * 2:00: Work on importing court into Unity
+* 3:45: End of Day
