@@ -30,3 +30,4 @@
 #### Friday, 12/16/22
 * 8:15: Work on getting new updated hoop working in Unity
 * 8:45: Search for fence asset to import
+* 9:05: Add fence to project and add colliders
