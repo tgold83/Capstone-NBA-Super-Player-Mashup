@@ -32,3 +32,4 @@
 * 8:45: Search for fence asset to import
 * 9:05: Add fence to project and add colliders
 * 9:35: Research how to add hands to first person game
+* 10:15: Work on making ball travel to basket onclick
