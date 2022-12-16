@@ -26,3 +26,6 @@
 * 1:05: Work on court design in blender
 * 2:00: Work on importing court into Unity
 * 3:45: End of Day
+
+#### Friday, 12/16/22
+* 8:15: Work on getting new updated hoop working in Unity
