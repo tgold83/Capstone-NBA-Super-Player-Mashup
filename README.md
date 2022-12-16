@@ -34,3 +34,4 @@
 * 9:35: Research how to add hands to first person game
 * 10:15: Work on making ball travel to basket onclick
 * 2:10: Watch tutorial on vectors and gravity
+* 4:00: Attempt to implement ball physics to project in Unity
