@@ -35,3 +35,7 @@
 * 10:15: Work on making ball travel to basket onclick
 * 2:10: Watch tutorial on vectors and gravity
 * 4:00: Attempt to implement ball physics to project in Unity
+* 5:00: End of of Day
+
+#### Monday, 12/19/22
+* 9:30: Work on getting the ball to return to player without reseting the game
