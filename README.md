@@ -40,3 +40,4 @@
 #### Monday, 12/19/22
 * 9:30: Work on getting the ball to return to player without reseting the game
 * 1:30: Work on Menu screen
+* 3:40: Add seed data to project
