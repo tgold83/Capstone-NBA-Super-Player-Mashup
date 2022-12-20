@@ -46,3 +46,4 @@
 #### Tuesday, 12/20/22
 * 8:30: Work on Pause menu
 * 11:00: Search for images for player options
+* 1:50: Import images for player options and create menuwith them as options
