@@ -42,3 +42,6 @@
 * 1:30: Work on Menu screen
 * 3:40: Add seed data to project
 * 5:00: End of day
+
+#### Tuesday, 12/20/22
+* 8:30: Work on Pause menu
