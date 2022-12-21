@@ -50,3 +50,6 @@
 * 3:30: Watch tutorial about adding player stats
 * 4:15: Work on script for character stats
 * 5:15: End of Day
+
+#### Wednesday, 12/21/22
+* 8:40: Continue work on character menu and script
