@@ -54,3 +54,4 @@
 #### Wednesday, 12/21/22
 * 8:40: Continue work on character menu and script
 * 10:30: Work on randomizer for shot making
+* 1:25: Work on setting up colliders for specifc shot locations
