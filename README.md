@@ -48,3 +48,4 @@
 * 11:00: Search for images for player options
 * 1:50: Import images for player options and create menu with them as options
 * 3:30: Watch tutorial about adding player stats
+* 4:15: Work on script for character stats
