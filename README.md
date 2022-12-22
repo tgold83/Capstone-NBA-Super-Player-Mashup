@@ -57,3 +57,4 @@
 * 1:25: Work on setting up colliders for specifc shot locations
 * 3:15: Add script to track player location in relation to the basket
 * 4:25: Work on connecting user input to player stats
+* 5:40: End of Day
