@@ -55,3 +55,5 @@
 * 8:40: Continue work on character menu and script
 * 10:30: Work on randomizer for shot making
 * 1:25: Work on setting up colliders for specifc shot locations
+* 3:15: Add script to track player location in relation to the basket
+* 4:25: Work on connecting user input to player stats
