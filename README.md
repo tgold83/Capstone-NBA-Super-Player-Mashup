@@ -62,3 +62,4 @@
 #### Thursday, 12/22/22
 * 9:00: Continue work on getting player stats to track from different scenes
 * 10:15: Work on updating fonts
+* 10:45: Add bad player to options
