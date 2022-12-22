@@ -58,3 +58,7 @@
 * 3:15: Add script to track player location in relation to the basket
 * 4:25: Work on connecting user input to player stats
 * 5:40: End of Day
+
+#### Thursday, 12/22/22
+* 9:00: Continue work on getting player stats to track from different scenes
+* 10:15: Work on updating fonts
